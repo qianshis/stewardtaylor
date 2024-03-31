@@ -1,0 +1,33 @@
+{
+  "name": "stewardtaylor",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "stewardtaylor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qianshis/stewardtaylor"
+  },
+  "website": "https://github.com/qianshis/stewardtaylor.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "skiescd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianshis/stewardtaylor/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/qianshis/stewardtaylor#readme",
+  "dependencies": {
+    "haydenjobraed": "1.0.2"
+  }
+}
